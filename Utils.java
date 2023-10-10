@@ -7,7 +7,7 @@ public
             System.out.println("good");
         }else if(x>0 || y>0 || z>0){
             System.out.println("fine");
-        }else
+        }else System.out.println("bad");
     }
 
 }

@@ -8,7 +8,6 @@ public
         }else if(x>0 || y>0 || z>0){
             System.out.println("fine");
         }else
-            System.out.println("bad");
     }
 
 }
